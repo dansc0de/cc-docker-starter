@@ -327,7 +327,7 @@ docker push USERNAME/myapp:v1
 
 ---
 
-## Part 6: Putting It Together - Live Build (15 min)
+## Part 6: Putting It Together
 
 ```bash
 cd ~/docker-starter
